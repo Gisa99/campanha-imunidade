@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;600;700&family=Satisfy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/*font-family: 'Fasthand', cursive;
+font-family: 'Montserrat Alternates', sans-serif;*/ 
+
+body{
+    background-color: #213C5F;
+    color:#EDEDED;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.principal{
+    
+}
+.first-section{
+ background-color: rgb(19, 88, 65);
+}
+.title-one{
+    color: #EFC621;
+    font-family: 'Satisfy', cursive;
+    font-size: 3.5rem;
+}
+.subtitle-one{
+    color: #EFC621;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+    line-height: 10px;
+}
+.text-one{
+    font-size: 1.5rem;
+    line-height: 40px;
+    padding-top: 25px;  
+}
+.p1{
+    font-size: 1.2em;
+    padding: 10px;
+}
+.produtos-img{
+    height: 300px;
+}
+.second-section div{
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.subtitle{
+    font-size: 1.8rem;
+}
+.text-icon{
+    font-size: 1.3rem;
+    font-weight: 500;
+    height: 35px;
+    text-align: left;    
+}
+.icon{
+    height: 170px;
+}
+.third-section div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    display: flex;
+    
+}
+.third-section p{
+    background-color: #EFC621;
+ 
+}
+
